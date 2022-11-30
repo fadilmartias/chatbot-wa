@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.18.4"
+  },
+  "scripts": {
+    "start": "node bot_wa.js"
+}
+}

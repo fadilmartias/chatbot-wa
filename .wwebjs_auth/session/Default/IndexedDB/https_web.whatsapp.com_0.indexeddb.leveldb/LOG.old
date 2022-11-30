@@ -1,0 +1,16 @@
+2022/11/29-22:10:17.970 31ec Reusing MANIFEST C:\laragon\www\bot-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/29-22:10:17.971 31ec Recovering log #51
+2022/11/29-22:10:18.167 31ec Reusing old log C:\laragon\www\bot-wa\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000051.log 
+2022/11/29-22:10:30.864 3804 Level-0 table #59: started
+2022/11/29-22:10:30.901 3804 Level-0 table #59: 1235738 bytes OK
+2022/11/29-22:10:30.905 3804 Delete type=0 #51
+2022/11/29-22:10:31.457 38b8 Compacting 1@1 + 3@2 files
+2022/11/29-22:10:31.654 38b8 Generated table #60@1: 43523 keys, 2233146 bytes
+2022/11/29-22:10:31.797 38b8 Generated table #61@1: 16829 keys, 2193183 bytes
+2022/11/29-22:10:31.855 38b8 Generated table #62@1: 21423 keys, 566957 bytes
+2022/11/29-22:10:31.855 38b8 Compacted 1@1 + 3@2 files => 4993286 bytes
+2022/11/29-22:10:31.858 38b8 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/11/29-22:10:31.858 38b8 Delete type=2 #54
+2022/11/29-22:10:31.858 38b8 Delete type=2 #55
+2022/11/29-22:10:31.858 38b8 Delete type=2 #56
+2022/11/29-22:10:31.858 38b8 Delete type=2 #59
